@@ -37,7 +37,7 @@ if(typeof(IFrameWindowHelper) == 'undefined'){
 n.onload = function(){ShutterPlacesWindowHelperScript.Button();};
 }
 (e[i]('head')[0] || e[i]('body')[0]).appendChild(n);
-})(window,document,'script',(6 == document.location.protocol.length ? 'https:' : 'http:') + '//raw.githubusercontent.com/gubnota/fenki_js_helpers/gh-pages/plugin/monkey/shutter_places/window_helper.dev.js','getElementsByTagName');
+})(window,document,'script',(6 == document.location.protocol.length ? 'https:' : 'http:') + '//raw.githubusercontent.com/vollch/fenki_js_helpers/gh-pages/plugin/monkey/shutter_places/window_helper.dev.js','getElementsByTagName');
 
         }//undefined el
     }//url pattern
