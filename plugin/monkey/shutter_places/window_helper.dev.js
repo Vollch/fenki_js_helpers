@@ -197,6 +197,7 @@ if(typeof(IFrameWindowHelper) == 'undefined'){
 
         function _ChangeMapOnClickHandler(m,l) {
         var t = window.localStorage.getItem('m');
+    /*
     var a = document.querySelectorAll('.leaflet-zoom-animated g path');
     for (var i = 0; i< a.length; i++){
         var color = '#dddddd';
@@ -232,7 +233,7 @@ if(typeof(IFrameWindowHelper) == 'undefined'){
                 document.getElementById(dismissLinkId).onclick = _dismissLinkClick;
           }
         }
-
+  */
 
         function Dialog(_buttonText, dismissText, _url) {
             Button(_buttonText || param.buttonText, dismissText || param.closeText, _url || url);
