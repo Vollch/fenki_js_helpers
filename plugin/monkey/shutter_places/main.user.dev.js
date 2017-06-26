@@ -2,13 +2,11 @@
 // @name       Shutterstock show places table
 // @namespace  http://gubnota.github.io/fenki_js_helpers/plugin/monkey/
 // @version    0.1.7.2
-// @downloadURL http://gubnota.github.io/fenki_js_helpers/plugin/monkey/shutter_places/main.user.js
 // @description Shows Shutterstock buyers places map spots one-by-one table
 // @include        http*://submit.shutterstock.com/dashboard*
 // @copyright  2015+, Vladislav Muravyev
 // @author Vladislav Muravyev
 // @grant          none
-// @icon http://gubnota.github.io/fenki_js_helpers/plugin/monkey/shutter_places/ss.png
 // @run-at document-end
 // ==/UserScript==
 (function(window, undefined){
